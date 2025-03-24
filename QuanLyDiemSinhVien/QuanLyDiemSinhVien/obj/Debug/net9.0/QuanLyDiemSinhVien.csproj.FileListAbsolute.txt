@@ -1,0 +1,14 @@
+C:\kiet06nguyen\Cấu trức dữ liệu , giải thuật\0. Kho bài\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net9.0\QuanLyDiemSinhVien.exe
+C:\kiet06nguyen\Cấu trức dữ liệu , giải thuật\0. Kho bài\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net9.0\QuanLyDiemSinhVien.deps.json
+C:\kiet06nguyen\Cấu trức dữ liệu , giải thuật\0. Kho bài\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net9.0\QuanLyDiemSinhVien.runtimeconfig.json
+C:\kiet06nguyen\Cấu trức dữ liệu , giải thuật\0. Kho bài\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net9.0\QuanLyDiemSinhVien.dll
+C:\kiet06nguyen\Cấu trức dữ liệu , giải thuật\0. Kho bài\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net9.0\QuanLyDiemSinhVien.pdb
+C:\kiet06nguyen\Cấu trức dữ liệu , giải thuật\0. Kho bài\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net9.0\QuanLyDiemSinhVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\kiet06nguyen\Cấu trức dữ liệu , giải thuật\0. Kho bài\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net9.0\QuanLyDiemSinhVien.AssemblyInfoInputs.cache
+C:\kiet06nguyen\Cấu trức dữ liệu , giải thuật\0. Kho bài\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net9.0\QuanLyDiemSinhVien.AssemblyInfo.cs
+C:\kiet06nguyen\Cấu trức dữ liệu , giải thuật\0. Kho bài\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net9.0\QuanLyDiemSinhVien.csproj.CoreCompileInputs.cache
+C:\kiet06nguyen\Cấu trức dữ liệu , giải thuật\0. Kho bài\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net9.0\QuanLyDiemSinhVien.dll
+C:\kiet06nguyen\Cấu trức dữ liệu , giải thuật\0. Kho bài\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net9.0\refint\QuanLyDiemSinhVien.dll
+C:\kiet06nguyen\Cấu trức dữ liệu , giải thuật\0. Kho bài\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net9.0\QuanLyDiemSinhVien.pdb
+C:\kiet06nguyen\Cấu trức dữ liệu , giải thuật\0. Kho bài\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net9.0\QuanLyDiemSinhVien.genruntimeconfig.cache
+C:\kiet06nguyen\Cấu trức dữ liệu , giải thuật\0. Kho bài\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net9.0\ref\QuanLyDiemSinhVien.dll

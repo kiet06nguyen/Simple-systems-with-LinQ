@@ -1,0 +1,14 @@
+C:\kiet06nguyen\Cấu trức dữ liệu , giải thuật\0. Kho bài\QuanLyThuVien\QuanLyThuVien\bin\Debug\net9.0\QuanLyThuVien.exe
+C:\kiet06nguyen\Cấu trức dữ liệu , giải thuật\0. Kho bài\QuanLyThuVien\QuanLyThuVien\bin\Debug\net9.0\QuanLyThuVien.deps.json
+C:\kiet06nguyen\Cấu trức dữ liệu , giải thuật\0. Kho bài\QuanLyThuVien\QuanLyThuVien\bin\Debug\net9.0\QuanLyThuVien.runtimeconfig.json
+C:\kiet06nguyen\Cấu trức dữ liệu , giải thuật\0. Kho bài\QuanLyThuVien\QuanLyThuVien\bin\Debug\net9.0\QuanLyThuVien.dll
+C:\kiet06nguyen\Cấu trức dữ liệu , giải thuật\0. Kho bài\QuanLyThuVien\QuanLyThuVien\bin\Debug\net9.0\QuanLyThuVien.pdb
+C:\kiet06nguyen\Cấu trức dữ liệu , giải thuật\0. Kho bài\QuanLyThuVien\QuanLyThuVien\obj\Debug\net9.0\QuanLyThuVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\kiet06nguyen\Cấu trức dữ liệu , giải thuật\0. Kho bài\QuanLyThuVien\QuanLyThuVien\obj\Debug\net9.0\QuanLyThuVien.AssemblyInfoInputs.cache
+C:\kiet06nguyen\Cấu trức dữ liệu , giải thuật\0. Kho bài\QuanLyThuVien\QuanLyThuVien\obj\Debug\net9.0\QuanLyThuVien.AssemblyInfo.cs
+C:\kiet06nguyen\Cấu trức dữ liệu , giải thuật\0. Kho bài\QuanLyThuVien\QuanLyThuVien\obj\Debug\net9.0\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\kiet06nguyen\Cấu trức dữ liệu , giải thuật\0. Kho bài\QuanLyThuVien\QuanLyThuVien\obj\Debug\net9.0\QuanLyThuVien.dll
+C:\kiet06nguyen\Cấu trức dữ liệu , giải thuật\0. Kho bài\QuanLyThuVien\QuanLyThuVien\obj\Debug\net9.0\refint\QuanLyThuVien.dll
+C:\kiet06nguyen\Cấu trức dữ liệu , giải thuật\0. Kho bài\QuanLyThuVien\QuanLyThuVien\obj\Debug\net9.0\QuanLyThuVien.pdb
+C:\kiet06nguyen\Cấu trức dữ liệu , giải thuật\0. Kho bài\QuanLyThuVien\QuanLyThuVien\obj\Debug\net9.0\QuanLyThuVien.genruntimeconfig.cache
+C:\kiet06nguyen\Cấu trức dữ liệu , giải thuật\0. Kho bài\QuanLyThuVien\QuanLyThuVien\obj\Debug\net9.0\ref\QuanLyThuVien.dll
